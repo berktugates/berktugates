@@ -2,6 +2,14 @@
 
 I am Berktuğ Berke from Turkey, I make content on design and development. I love learning new things and improving myself every day.
 
+
+
+
+
+
+
+
+
 Skills:  HTML / CSS
 
 
