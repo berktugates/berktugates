@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Berktug Berke Ates :kiss:
+### Hi there 👋, I'm Berktug Berke Ates 
 
 I am Berktuğ Berke from Turkey, I make content on design and development. I love learning new things and improving myself every day.
 
