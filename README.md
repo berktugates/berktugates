@@ -8,7 +8,7 @@
 <hr>
 
 <div align="center">
-  <h3 align="center">Contact</h3>
+  <h3 align="center">Contact:</h3>
   <a href="https://www.linkedin.com/in/berktugates/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=10" />
   </a>
